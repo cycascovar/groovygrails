@@ -1,4 +1,4 @@
-groovygrails
+Proyecto BD
 ============
 
-Groovy
+Proyecto de Bases de Datos UAEH
